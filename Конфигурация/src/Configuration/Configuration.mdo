@@ -47,11 +47,13 @@
   <styles>Style.Корпоративный</styles>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
+  <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.Администратор</roles>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <catalogs>Catalog.Города</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.ЗаказыКлиента</documents>
