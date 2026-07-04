@@ -126,6 +126,10 @@
   <items xsi:type="form:Table">
     <name>СписокПрав</name>
     <id>10</id>
+    <title>
+      <key>ru</key>
+      <value>Список прав</value>
+    </title>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
